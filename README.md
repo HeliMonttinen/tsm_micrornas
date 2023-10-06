@@ -11,7 +11,7 @@ The associated data and results directory can be downloaded from: https://etsin.
 
 ## Data for TSM-origin microRNAs
 
-Ancestral sequence reconstructions, phylogenetic trees, TSM alignment solutions and predicted secondary structures are provided under [data/microRNAs](data/microRNAs). Subdirectories are named in format 'EnsembleID_microRnaID', TSM solutions  'EnsembleID_TSM-number' and predicted secondary structures 'EnsembleID_TSM-number_Tree-node-qry/ref/anc'. The sequence containing a TSM is 'qry', and its parent and grand-parent are 'ref' and 'anc', respectively.
+Ancestral sequence reconstructions, phylogenetic trees, TSM alignment solutions and predicted secondary structures are provided under [data/microRNAs](data/). Subdirectories are named in format 'EnsembleID_microRnaID', TSM solutions  'EnsembleID_TSM-number' and predicted secondary structures 'EnsembleID_TSM-number_Tree-node-qry/ref/anc'. The sequence containing a TSM is 'qry', and its parent and grand-parent are 'ref' and 'anc', respectively.
 
 
 ## Tools and software
