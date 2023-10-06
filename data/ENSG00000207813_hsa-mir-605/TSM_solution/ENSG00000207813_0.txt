@@ -1,0 +1,15 @@
+Alignment:
+Node 9  ATAACATATGTCTGTAGCCCTAGCTTGGTTCTAAATCCCAT-----------GGTGCCTTctcttgggaaaaacagagaaggyrctatgggatttagraccaagttakgrctacaratayagrttacctawgtta
+Node 20 ATAACATATGTCTGTAGCCCTAGCTTGGTTCTAAATCCCATTTTTTKTTTGWAGTGYMTT---------------------------------------------------------------------------
+
+Switch process:
+F1: L ATAACATATGTCTGTAGCCCTAGCTTGGTTCTAAATCCCAT-----------gGTGCCTTctccttgggaaaaacagagaaggyrct 1
+F3:                                                                                        4 cctawgttacaggctgayagccataggtwtta R
+RF:   ATAACATATGTCTGTAGCCCTAGCTTGGTTCTAAATCCCATTTTTTKTTTGWAGTGYMTT-----------------------------------------------------------
+RR:   TATTGTATACAGACATCGGGATCGAACCAAGATTTAGGGTAAAAAAMAAACWTCACRKAA-----------------------------------------------------------
+F2:  3 ATTRgAYAtARACATCRGKATtGAACCARGATTTAGGGTA 2
+
+Template-switch alignment:
+Node 9  ATAACATATGTCTGTAGCCCTAGCTTGGTTCTAAATCCCAT-----------GGTGCCTTctcttgggaaaaacagagaaggyrct|ATGGGATTTAGRACCAAGtTAKGRCTACARAtAYAgRTTA|cctaWgtta
+Node 20 ATAACATATGTCTGTAGCCCTAGCTTGGTTCTAAATCCCATTTTTTKTTTGWAGTGYMTT--------------------------|ATGGGATTTAGAACCAAGCTAGGGCTACAGACATATGTTA|---------
+
